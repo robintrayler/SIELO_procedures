@@ -59,7 +59,10 @@ You are now ready to set up an Isodat sequence.
 
 * In *Isodat Workspace* click **new** in the upper left and select **sequence**. 
 * Enter the total number of samples (from `n_samples`) in the small window that pops up and click OK. 
-* 
+* Maximize the sequence window so that all the columns are visible. 
+
+ ![](../figures/isodat/blank_sequence.png)
+ *Example of a completely blank sequence file.*
 
 
 
