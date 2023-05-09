@@ -9,5 +9,5 @@ This repository methods and procedures documents for the Stable Isotope Ecosyste
 ## ThermoFisher Gasbench II
 
 ## Isodat
-
+[Closing Conflo IV Valves](./conflo/closing_conflo_valves.md)
 
