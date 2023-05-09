@@ -54,9 +54,8 @@ After you have started a new row in the *Instrument Run Log* you can finish fill
 * Copy the last `identifier 1` number from the weigh sheet and paste it into the `end_ID1` cell in the *Instrument Run Log*.
 
 ### Set Up Isodat Sequence
-
-You are now ready to set up an Isodat sequence. 
-
+ 
+* Open *Isodat Workspace* and make sure the appropriate instrument is selected from the small drop-down menu in the bottom left.
 * In *Isodat Workspace* click **new** in the upper left and select **sequence**. 
 * Enter the total number of samples (from `n_samples`) in the small window that pops up and click OK. 
 * Maximize the sequence window so that all the columns are visible. 
@@ -64,7 +63,10 @@ You are now ready to set up an Isodat sequence.
  ![](../figures/isodat/blank_sequence.png)
  *Example of a completely blank sequence file.*
 
-
+* Copy and paste from the weigh sheet into the Isodat sequence.
+    * `identifier 1` ➡️ `Identifier 1` 
+    * `sample` ➡️ `Identifier 2`
+    * `weight (mg)` ➡️ `Amount`
 
 
   
