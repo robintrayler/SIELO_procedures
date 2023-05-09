@@ -8,7 +8,8 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 
 ## Prerequisites
 
-- [ ] Samples are loaded into the *Zeroblank Autosampler* (see [Loading Zeroblank Autosampler](). 
+- [ ] Samples are loaded into the *Zeroblank Autosampler* (see [Loading Zeroblank Autosampler](../costech_EA/EA_zeroblank.md)). 
+
 *** 
 
 ## Introduction
