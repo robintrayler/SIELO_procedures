@@ -7,7 +7,7 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 ***
 ## Prerequisites 
 
-- [ ] Conflo IV valves are closed (see [closing_conflo_valves](../isodat/closing_conflo_valves.md))
+- [ ] Conflo IV valves are closed (see [closing conflo valves](../conflo/closing_conflo_valves.md))
 
 ## Supplies
 
