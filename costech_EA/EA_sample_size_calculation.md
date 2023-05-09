@@ -8,7 +8,7 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 *** 
 
 # Introduction
-Determining the correct sample size for δ^13^C and δ^15^N analyses is important because the mass spectrometer signal intensity, sensitivity, and reproducibility is related to sample mass. These notes make three assumptions.
+Determining the correct sample size for δ<sup>13</sup>C and δ<sup>15</sup>N analyses is important because the mass spectrometer signal intensity, sensitivity, and reproducibility is related to sample mass. These notes make three assumptions.
 
 1. The the carbon and nitrogen content of a material is known prior to analysis.
 
@@ -34,21 +34,21 @@ The δ-value-mass-dependence is linear and lowest between about 5 to 15 volts fo
 
 |     isotope     | minimum (mg) | maximum (mg)  |
 |:---------------:|:------------:|:-------------:|
-|      δ^13^C     |      0.2     |      0.8      |
-|      δ^15^N     |      0.05    |      0.2      |
-: minimum and maximum carbon and nitrogen contents for δ^13^C and δ^15^N analysis
+| δ<sup>13</sup>C |      0.2     |      0.8      |
+| δ<sup>15</sup>N |      0.05    |      0.2      |
+: minimum and maximum carbon and nitrogen contents for δ<sup>13</sup>C and δ<sup>15</sup>N analysis
 
 # Calculating Sample Size
 
 If the carbon and nitrogen content of a material is known prior to analysis you can calculate the optimal sample size using the following equations to calculate the range of sample weights for carbon and nitrogen. 
 
-## δ^13^C Range
+## δ<sup>13</sup>C Range
 
 $$Sample~size_{min} = 0.2 \div (sample~carbon~percent \div 100)$$
 
 $$Sample~size_{max} = 0.8 \div (sample~carbon~percent \div 100)$$
 
-## δ^15^N Range
+## δ<sup>15</sup>N Range
 
 $$Sample~size_{min} = 0.05 \div (sample~nitrogen~percent \div 100)$$
 
