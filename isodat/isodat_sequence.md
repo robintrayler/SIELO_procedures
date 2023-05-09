@@ -14,7 +14,7 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 
 ## Introduction
 
-An *Isodat sequence* file is required for all analyses on the Costech 4010, ThermoFisher TC/EA, ThermoFisher Gasbench II, and ThermoFisher GC-Isolink instruments. This guide covers the basics of setting up routine analytical sequences for these instruments. If you need to set up a specialized sequence (e.g., for method development or instrument testing) please consult the Technical Director. 
+An *Isodat sequence* file is required for all analyses on the Costech 4010 Elemental Combustion System. This guide covers the basics of setting up routine analytical sequences for this instrument. If you need to set up a specialized sequence (e.g., for method development or instrument testing) please consult the Technical Director. 
 
 ## Instrument Run Logs
 
@@ -56,9 +56,9 @@ After you have started a new row in the *Instrument Run Log* you can finish fill
 ### Set Up Isodat Sequence
  
 * Open *Isodat Workspace* and make sure the appropriate instrument is selected from the small drop-down menu in the bottom left.
-* In *Isodat Workspace* click **new** in the upper left and select **sequence**. 
-* Enter the total number of samples (from `n_samples`) in the small window that pops up and click OK. 
-* Maximize the sequence window so that all the columns are visible. 
+    * In *Isodat Workspace* click **new** in the upper left and select **sequence**. 
+    * Enter the total number of samples (from `n_samples`) in the small window that pops up and click OK. 
+    * Maximize the sequence window so that all the columns are visible. 
 
  ![](../figures/isodat/blank_sequence.png)
  *Example of a completely blank sequence file.*
@@ -68,6 +68,13 @@ After you have started a new row in the *Instrument Run Log* you can finish fill
     * `sample` ➡️ `Identifier 2`
     * `weight (mg)` ➡️ `Amount`
 
+* Right-click on the `Method` header and select `fill grid with data`. 
+    * Select the appropriate method and click OK. The default method is called `EA_N2-0_CO2-89.met`. 
 
+* Click the `Options` button on the top of the sequence. Make sure to click the lower green-and-orange `Options` button and not the upper white-and-yellow options button.
+* 
+
+![](../figures/isodat/isodat_options.png)
+ *Example of a completely blank sequence file.*
   
   
