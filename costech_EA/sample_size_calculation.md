@@ -23,11 +23,13 @@ Determining the correct sample size for δ<sup>13</sup>C and δ<sup>15</sup>N an
 # Background
 The signal intensity of a sample gas measured by a *Delta V+ isotope ratio mass spectrometer* is directly related to the amount of sample gas. In the case of the *Costech 4010 Elemental Analyzer* the signal intensity is linearly related to sample carbon and nitrogen content (Figure 1).
 
-![Sample carbon and nitrogen content versus signal intensity.](../figures/sample_size/amp_mass.jpeg)
+![](../figures/sample_size/amp_mass.jpeg)
+*Sample carbon and nitrogen content versus signal intensity.*
 
 The *Delta V+ isotope ratio mass spectrometer* has a measurement range from 0 to 50 volts. However the sensitivity is best below about 30 volts. Furthermore, both δ<sup>13</sup>C and δ<sup>15</sup>N have have a non-linear relationship to signal intensity. This means that a sample with a small signal intensity will have a different measured δ value than a sample of the same material at a large signal intensity. 
 
-![Mass dependence of δ<sup>13</sup>C and δ<sup>15</sup>N values.](../figures/sample_size/linearity.jpeg)
+![](../figures/sample_size/linearity.jpeg)
+*Mass dependence of δ<sup>13</sup>C and δ<sup>15</sup>N values.*
 
 The δ-value-mass-dependence is linear and lowest between about 5 to 15 volts for δ<sup>13</sup>C and 5 to 25 for δ<sup>15</sup>N (@fig:linearity). Since the relationship between signal intensity (volts) is linearly related to carbon and nitrogen content (Figure 2), this equates to the mass range shown in @tbl:ranges.
 
@@ -36,7 +38,8 @@ The δ-value-mass-dependence is linear and lowest between about 5 to 15 volts fo
 |:---------------:|:------------:|:-------------:|
 | δ<sup>13</sup>C |      0.2     |      0.8      |
 | δ<sup>15</sup>N |      0.05    |      0.2      |
-: minimum and maximum carbon and nitrogen contents for δ<sup>13</sup>C and δ<sup>15</sup>N analysis
+
+*minimum and maximum carbon and nitrogen contents for δ<sup>13</sup>C and δ<sup>15</sup>N analysis.*
 
 # Calculating Sample Size
 
