@@ -14,7 +14,7 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 
 ## Introduction
 
-An *Isodat sequence* file is required for all analyses on the Costech 4010 Elemental Combustion System. This guide covers the basics of setting up routine analytical sequences for this instrument. If you need to set up a specialized sequence (e.g., for method development or instrument testing) please consult the Technical Director. 
+An *Isodat sequence* file is required for all analyses on the Costech 4010 Elemental Combustion System. This guide covers the basics of setting up routine analytical sequences for this instrument. If you need to set up a specialized sequence (e.g., for method development or instrument testing) please consult the Technical Director.
 
 ## Instrument Run Logs
 
@@ -71,6 +71,8 @@ After you have started a new row in the *Instrument Run Log* you can finish fill
 * Right-click on the `Method` header and select `fill grid with data`. 
     * Select the appropriate method and click OK. The default method is called `EA_N2-0_CO2-89.met`. 
 
+## Set Save Options
+
 ![](../figures/isodat/isodat_options.png)
  *The Isodat options window.*
 
@@ -83,6 +85,6 @@ After you have started a new row in the *Instrument Run Log* you can finish fill
 
 * Click the `Save` 💾 icon. Save the sequence in the `/sample sequences/` folder with the `run_ID`  as the file name.
 
-
+## Done
   
   
