@@ -6,6 +6,11 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 
 ***
 
+## Prerequisites
+
+- [ ] Samples are loaded into the *Zeroblank Autosampler* (see [Loading Zeroblank Autosampler](../costech_EA/EA_zeroblank.md)). 
+- [ ] Costech 4010 is warmed up (see [Warming up the Costech 4010](../costech_EA/warming_up_costech.md))
+
 ## Supplies
 
 - [ ] Typed weight sheet using the one of *SIELO weigh sheet templates* 
@@ -16,7 +21,9 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 
 An *Isodat sequence* file is required for all analyses on the Costech 4010 Elemental Combustion System. This guide covers the basics of setting up routine analytical sequences for this instrument. If you need to set up a specialized sequence (e.g., for method development or instrument testing) please consult the Technical Director.
 
-## Instrument Run Log
+## Steps
+
+### Instrument Run Log
 
 Each instrument has an *Instrument Run Log* excel file located in `~/Box Sync/Instrument Run Logs/`. There are two log files, one for each Delta V+ mass spectrometer. **All analyses** must be entered into the appropriate *Instrument Run Log*.
 
@@ -40,7 +47,7 @@ Each analysis within a run is also given a unique identifier number referred to 
  *Example of a completely filled out weigh sheet.*
 
   
-## Fill Out Weigh Sheet
+### Fill Out Weigh Sheet
 
 After you have started a new row in the *Instrument Run Log* you can finish filling out the typed weigh sheet. Weigh sheets of samples waiting for analysis are stored in `~/Box Sync/Instrument Run Logs/Sample Run Sheets/Sample To Run/`. 
 
@@ -51,7 +58,7 @@ After you have started a new row in the *Instrument Run Log* you can finish fill
 * Drag-and-fill this number in Excel to fill the remainder of the sheet. **Make sure the numbers are increasing by +1 for each cell!**
 * Copy the last `identifier 1` number from the weigh sheet and paste it into the `end_ID1` cell in the *Instrument Run Log*.
 
-## Set Up Isodat Sequence
+### Set Up Isodat Sequence
  
 Open *Isodat Workspace* and select `Conflo + EA` from the small drop-down menu in the bottom left. **A sequence created in a different instrument configuration will not work!**
     * In *Isodat Workspace* click **new** in the upper left and select **sequence**. 
@@ -69,7 +76,7 @@ Open *Isodat Workspace* and select `Conflo + EA` from the small drop-down menu i
 * Right-click on the `Method` header and select `fill grid with data`. 
     * Select the appropriate method and click OK. The default method is called `EA_N2-0_CO2-89.met`. 
 
-## Set Save Options
+### Set Save Options
 
 ![](../figures/isodat/isodat_options.png)
  *The Isodat options window.*
@@ -82,7 +89,5 @@ Open *Isodat Workspace* and select `Conflo + EA` from the small drop-down menu i
     *  Click `OK`. 
 
 * Click the `Save` 💾 icon. Save the sequence in the `/sample sequences/` folder with the `run_ID`  as the file name.
-
-## Done
   
   
