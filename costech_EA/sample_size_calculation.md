@@ -44,21 +44,21 @@ If the carbon and nitrogen content of a material is known prior to analysis you 
 
 ## δ<sup>13</sup>C Range
 
-$$Sample~size_{min} = 0.2 \div (sample~carbon~percent \div 100)$$
+$$Sample size_{min} = 0.2 ÷ (sample carbon percent ÷ 100)$$
 
-$$Sample~size_{max} = 0.8 \div (sample~carbon~percent \div 100)$$
+$$Sample size_{max} = 0.8 ÷ (sample carbon percent ÷ 100)$$
 
 ## δ<sup>15</sup>N Range
 
-$$Sample~size_{min} = 0.05 \div (sample~nitrogen~percent \div 100)$$
+$$Sample size_{min} = 0.05 ÷ (sample nitrogen percent ÷ 100)$$
 
-$$Sample~size_{max} = 0.2 \div (sample~nitrogen~percent \div 100)$$
+$$Sample size_{max} = 0.2 ÷ (sample nitrogen percent ÷ 100)$$
 
 # Measuring both δ<sup>13</sup>C and δ<sup>15</sup>N
 
-It is difficult to concurrently measure δ<sup>13</sup>C and δ<sup>15</sup>N in samples with high C:N ratios. Based on the sample ranges given in Table 1 the maximum C:N ratio is about 16 ($carbon~maximum \div nitrogen~minimum$ or $0.8 \div 0.05$) and the minimum C:N ratio is 1 ($carbon~minimum \div nitrogen~maximum$ or $0.2 \div 0.2$). For analyses of materials with C:N ratios outside this range please consult the Technical Director prior to sample preparation.
+It is difficult to concurrently measure δ<sup>13</sup>C and δ<sup>15</sup>N in samples with high C:N ratios. Based on the sample ranges given in Table 1 the maximum C:N ratio is about 16 ($carbon maximum ÷ nitrogen minimum$ or $0.8 ÷ 0.05$) and the minimum C:N ratio is 1 ($carbon minimum ÷ nitrogen maximum$ or $0.2 ÷ 0.2$). For analyses of materials with C:N ratios outside this range please consult the Technical Director prior to sample preparation.
 
-If your samples have a C:N ratio between about 1 to 16 then δ^13^C and δ^15^N can be measured concurrently. Calculate the range of acceptable sample sizes using the equations for carbon and nitrogen shown above and then choose a final sample size that overlaps both results. If your samples have a C:N ratio significantly outside this range then δ<sup>13</sup>C and δ<sup>15</sup>N may need to be measured separately. Please consult the Technical Director for guidance.
+If your samples have a C:N ratio between about 1 to 16 then δ<sup>13</sup>C and δ<sup>15</sup>N can be measured concurrently. Calculate the range of acceptable sample sizes using the equations for carbon and nitrogen shown above and then choose a final sample size that overlaps both results. If your samples have a C:N ratio significantly outside this range then δ<sup>13</sup>C and δ<sup>15</sup>N may need to be measured separately. Please consult the Technical Director for guidance.
 
 # Worked Example
 Acetanilide is common reference material that is 71.09% carbon and 10.36% nitrogen (@tbl:common).

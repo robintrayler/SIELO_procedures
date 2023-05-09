@@ -45,7 +45,8 @@ After you have started a new row in the *Instrument Run Log* you can finish fill
 * The `tray_well`, `sample`, `weight (mg)`, `analyst`, and `sample_type` columns should already be filled out. If they are not fill them out now.
 * In the `autosampler_position` column enter the position you placed each sample in the autosampler (TCEA & EA- Zero blank autosampler; Gasbench- GC Pal Heating Block; GCC- Triplus Autosampler Tray).
 * In the `identifier 1` column enter the `start_ID1` number from the *Instrument Run Log*. 
-* Drag-and-fill this number in Excel to fill the remainder of the sheet. 
+* Drag-and-fill this number in Excel to fill the remainder of the sheet. **Make sure the numbers are increasing by +1 for each cell!**
+* Copy the last `identifier 1` number from the weigh sheet and paste it into the `end_ID1` cell in the *Instrument Run Log*.
 
 
   
