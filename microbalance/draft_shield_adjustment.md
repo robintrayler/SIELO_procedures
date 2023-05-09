@@ -1,15 +1,7 @@
 
----
-title: Adjusting *Satorius Microbalance* Draft Shield v0.2
-author: Robin B. Trayler
-pdf-engine: xelatex
-mainfont: Helvetica
-geometry: margin=1in
-fontsize: 12pt
-tblPrefix: Table
-figPrefix: Figure
-indent: true
----
+# Adjusting *Satorius Microbalance* Draft Shield v0.2
+
+[🏠](../README.md)
 
 ***
 
@@ -27,4 +19,5 @@ Sometimes the microbalance draft shield will either stop rotating or will not ro
 3. Set `Ds.R` to 270
 4. Press the `Back` button
 
-![Draft shield adjustment screen.](./figures/microbalance/draft_shield.jpg){#fig:adjustment}
+![](../figures/microbalance/draft_shield.jpg)
+*Draft shield adjustment screen.*
