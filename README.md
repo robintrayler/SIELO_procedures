@@ -14,4 +14,5 @@ This repository methods and procedures documents for the Stable Isotope Ecosyste
 
 ## Isodat
 * [Closing Conflo IV Valves](./conflo/closing_conflo_valves.md)
+* [Setting up a Sequence](./isodat/isodat_sequence.md)
 
