@@ -23,6 +23,9 @@ An *Isodat sequence* file is required for all analyses on the Costech 4010, Ther
 
 Each instrument has an *Instrument Run Log* excel file located in `~/Box Sync/Instrument Run Logs/`. There are two log files, one for each Delta V+ mass spectrometer. **All analyses** must be entered into the appropriate *Instrument Run Log*.
 
+ ![](../figures/isodat/run_log.png)
+ *run log*
+
 Setting up an Isodat sequence begins by starting a new row in the appropriate *Instrument Run Log*. 
    
-   ![run log](../figures/isodat/run_log.png)
+  
