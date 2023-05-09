@@ -1,4 +1,4 @@
-# Setting up an Isodat Sequence
+# Setting up a Costech 4010 Isodat Sequence
 
 ***
 
@@ -8,8 +8,10 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 
 ## Prerequisites
 
-- [ ] Samples are loaded into the *Zeroblank Autosampler* (see [Loading Zeroblank Autosampler](../costech_EA/EA_zeroblank.md)). 
-- [ ] Costech 4010 is warmed up (see [Warming up the Costech 4010](../costech_EA/warming_up_costech.md))
+Please complete all linked guides before continuing. 
+
+- [ ] [Loading the Costech 4010 Zeroblank Autosampler](../costech_EA/EA_zeroblank.md)
+- [ ] [Warming up the Costech 4010](../costech_EA/warming_up_costech.md)
 
 ## Supplies
 

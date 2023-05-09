@@ -1,4 +1,4 @@
-# Starting CO<sub>2</sub> and N<sub>2</sub> 4010 On-Off 
+# Starting Costech 4010 CO<sub>2</sub> and N<sub>2</sub> On-Offs 
 
 ***
 
