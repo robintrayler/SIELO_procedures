@@ -44,15 +44,15 @@ If the carbon and nitrogen content of a material is known prior to analysis you 
 
 ## δ^13^C Range
 
-$$Sample~size_{min} = 0.2 \div (sample~carbon \% \div 100)$$
+$$Sample~size_{min} = 0.2 \div (sample~carbon~percent \div 100)$$
 
-$$Sample~size_{max} = 0.8 \div (sample~carbon \% \div 100)$$
+$$Sample~size_{max} = 0.8 \div (sample~carbon~percent \div 100)$$
 
 ## δ^15^N Range
 
-$$Sample~size_{min} = 0.05 \div (sample~nitrogen \% \div 100)$$
+$$Sample~size_{min} = 0.05 \div (sample~nitrogen~percent \div 100)$$
 
-$$Sample~size_{max} = 0.2 \div (sample~nitrogen \% \div 100)$$
+$$Sample~size_{max} = 0.2 \div (sample~nitrogen~percent \div 100)$$
 
 # Measuring both δ<sup>13</sup>C and δ<sup>15</sup>N
 
