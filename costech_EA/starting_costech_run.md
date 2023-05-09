@@ -1,4 +1,4 @@
-# Setting up a Costech 4010 Isodat Sequence
+# Starting a Costech 4010 Run
 
 ***
 
@@ -8,7 +8,7 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 
 ## Supplies
 
-- [ ] Typed weight sheet using the one of *SIELO weigh sheet templates* 
+- [ ] Completed isodat sequence file (`run_ID.seq`; see [Setting up a Costech 4010 Isodat Sequence](../isodat/isodat_sequence.md))
 
 *** 
 
