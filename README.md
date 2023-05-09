@@ -7,7 +7,7 @@ This repository methods and procedures documents for the Stable Isotope Ecosyste
 ## Costech 4010 Elemental Analyzer
 
 * [Calculating sample sizes](./costech_EA/sample_size_calculation.md)
-
+* [Starting a Costech 4010 run](./costech_EA/starting_costech_run.md)
 ## ThermoFisher TC/EA
 
 ## ThermoFisher Gasbench II
