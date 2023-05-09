@@ -81,7 +81,7 @@ After you have started a new row in the *Instrument Run Log* you can finish fill
     *  Uncheck the `autoenumerate` checkbox. 
     *  Click `OK`. 
 
-* Click the `Save` 💾 icon. Save the sequence as the `run_ID` in the `/sample sequences/` folder.
+* Click the `Save` 💾 icon. Save the sequence in the `/sample sequences/` folder with the `run_ID`  as the file name.
 
 
   
