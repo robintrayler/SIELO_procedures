@@ -72,9 +72,14 @@ After you have started a new row in the *Instrument Run Log* you can finish fill
     * Select the appropriate method and click OK. The default method is called `EA_N2-0_CO2-89.met`. 
 
 * Click the `Options` button on the top of the sequence. Make sure to click the lower green-and-orange `Options` button and not the upper white-and-yellow options button.
-* 
+    * Set the results file output location by selecting the small folder icon under `Folder Name`. Select the folder with the name `EA {current year}`. **Do not select any options under the `Folder Name` `Pre` and `Post` buttons.**
+    *  Under `File Name`, click the `Pre` button and select `Identifier 1` and click OK. Click the `Post` button and select `Date` and click OK. 
+    *  In the text box to the right of the buttons enter the `run_ID`.
+    *  Uncheck the `autoenumerate` checkbox. 
+    *  Click `OK`
+
 
 ![](../figures/isodat/isodat_options.png)
- *Example of a completely blank sequence file.*
+ *The Isodat options window.*
   
   
