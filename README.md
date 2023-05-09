@@ -6,10 +6,12 @@ This repository methods and procedures documents for the Stable Isotope Ecosyste
 
 ## Costech 4010 Elemental Analyzer
 
+* [Calculating sample sizes](./costech_EA/sample_size_calculation.md)
+
 ## ThermoFisher TC/EA
 
 ## ThermoFisher Gasbench II
 
 ## Isodat
-[Closing Conflo IV Valves](./conflo/closing_conflo_valves.md)
+* [Closing Conflo IV Valves](./conflo/closing_conflo_valves.md)
 
