@@ -61,7 +61,7 @@ It is difficult to concurrently measure δ<sup>13</sup>C and δ<sup>15</sup>N in
 If your samples have a C:N ratio between about 1 to 16 then δ<sup>13</sup>C and δ<sup>15</sup>N can be measured concurrently. Calculate the range of acceptable sample sizes using the equations for carbon and nitrogen shown above and then choose a final sample size that overlaps both results. If your samples have a C:N ratio significantly outside this range then δ<sup>13</sup>C and δ<sup>15</sup>N may need to be measured separately. Please consult the Technical Director for guidance.
 
 # Worked Example
-Acetanilide is common reference material that is 71.09% carbon and 10.36% nitrogen (@tbl:common).
+Acetanilide is common reference material that is 71.09% carbon and 10.36% nitrogen.
 
 ## δ<sup>13</sup>C
 
