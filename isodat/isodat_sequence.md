@@ -36,6 +36,11 @@ Each analysis within a run is also given a unique identifier number referred to 
  * In the `sample_type` column enter the general type of material being analyzed (e.g., soil, animal tissue, feathers, plants, etc). This does not need to be very specific. 
  *  In the `n_samples` column enter the total number of things being analyzed (samples + standards). 
  *  In the `n_unknowns` column enter only the number of samples being analyzed (no standards). This is for billing purposes.
+ *  Fill out the `combustion`, `reduction`, `H2O_trap`, and `ash_crucible` columns by adding the value from `n_samples` to the previous rows value for each column. 
+  
+  ![](../figures/isodat/weigh_sheet.png)
+ *Example of a completely filled out weigh sheet.*
+
   
 ### Fill Out Weigh Sheet
 
@@ -47,6 +52,16 @@ After you have started a new row in the *Instrument Run Log* you can finish fill
 * In the `identifier 1` column enter the `start_ID1` number from the *Instrument Run Log*. 
 * Drag-and-fill this number in Excel to fill the remainder of the sheet. **Make sure the numbers are increasing by +1 for each cell!**
 * Copy the last `identifier 1` number from the weigh sheet and paste it into the `end_ID1` cell in the *Instrument Run Log*.
+
+### Set Up Isodat Sequence
+
+You are now ready to set up an Isodat sequence. 
+
+* In *Isodat Workspace* click **new** in the upper left and select **sequence**. 
+* Enter the total number of samples (from `n_samples`) in the small window that pops up and click OK. 
+* 
+
+
 
 
   
