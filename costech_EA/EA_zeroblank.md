@@ -34,7 +34,7 @@ The *Costech 4010 Elemental Combustion System* *Zeroblank Autosampler* holds sam
 3. Loosen and fold down the three retaining bolts on top of the autosampler and prop up the autosampler lid.
 4. Use a pair of forceps to load samples from the 96 well tray. Start at the hole directly to the right of the autosampler drop-tube and work counter clockwise. Do not place a capsule in the hole directly over the drop-tube! 
 
-![ZeroBlank Autosampler carousel loading direction. Do not place a capsule in the hole directly over the drop tube.](./figures/costech/carousel.png)
+![ZeroBlank Autosampler carousel loading direction. Do not place a capsule in the hole directly over the drop tube.](./figures/costech_EA/carousel.png)
 
 5. When you are done loading, make sure there are no sample capsules left in the 96 well tray and make you have loaded only 1 capsule into each autosampler hole. 
 6. Close the autosampler lid and tighten the three retaining bolts a quarter turn at a time until they are tight.
