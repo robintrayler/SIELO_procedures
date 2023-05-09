@@ -65,13 +65,13 @@ Acetanilide is common reference material that is 71.09% carbon and 10.36% nitrog
 
 ## δ<sup>13</sup>C
 
-$$sample~size_{min} = 0.28~mg = 0.2 \div (71.09 \% \div 100)$$
-$$sample~size_{max} = 1.13~mg = 0.8 \div (71.09 \% \div 100)$$
+$$sample size_{min} = 0.28 mg = 0.2 ÷ (71.09  ÷ 100)$$
+$$sample size_{max} = 1.13 mg = 0.8 ÷ (71.09 ÷ 100)$$
 
 ## δ<sup>15</sup>N
 
-$$Sample~size_{min} = 0.48~mg = 0.05 \div (10.36 \% \div 100)$$
-$$Sample~size_{max} = 1.93~mg = 0.2 \div (10.36 \% \div 100)$$
+$$Sample size_{min} = 0.48 mg = 0.05 ÷ (10.36 ÷ 100)$$
+$$Sample size_{max} = 1.93 mg = 0.2 ÷ (10.36 ÷ 100)$$
 
 In this case the minimum sample size for δ<sup>13</sup>C measurements is lower than the minimum for measuring δ<sup>15</sup>N. the minimum sample size for δ<sup>15</sup>N analysis is in the middle of the range for δ<sup>13</sup>C so a sample size of **0.5 mg** would be appropriate.
 
