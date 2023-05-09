@@ -1,6 +1,6 @@
 # Stable Isotope Ecosystems Laboratory of UC Merced Procedures
 
-This repository methods and procedures documents for the Stable Isotope Ecosystems Laboratory of UC Merced (SIELO).
+This repository contains methods and procedures documents for the Stable Isotope Ecosystems Laboratory of UC Merced (SIELO).
 
 # Topics
 
