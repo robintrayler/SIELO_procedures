@@ -8,7 +8,7 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 
 ## Prerequisites
 
-Please complete all linked guides before continuing. 
+Please check all prerequisites and complete any linked guides before continuing.
 
 - [ ] [Loading the Costech 4010 Zeroblank Autosampler](../costech_EA/EA_zeroblank.md)
 - [ ] [Warming up the Costech 4010](../costech_EA/warming_up_costech.md)

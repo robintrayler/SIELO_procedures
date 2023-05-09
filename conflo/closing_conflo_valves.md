@@ -6,6 +6,12 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 
 ***
 
+## Prerequisites 
+
+Please check all prerequisites and complete any linked guides before continuing.
+
+- [ ] An Isodat sequence is not currently runnings
+
 ## Supplies Needed
 
 - [ ] None
