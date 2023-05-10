@@ -12,7 +12,7 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 
 Please check all prerequisites and complete any linked guides before continuing.
 
-- [ ] An Isodat sequence is not currently runnings
+- [ ] An Isodat sequence is not currently running.
 
 ## Supplies Needed
 
@@ -28,4 +28,5 @@ Before loading samples or otherwise opening the *Costech 4010 Elemental Combusti
 
 In *Isodat Acquisition* scroll down to find the `Conflo IV Diagnosis` panel in the sidebar. Toggle all valves and capillaries off by clicking all green radio buttons. Note that one value under `Sample Dilution` will always remain open and Isodat will not allow it to be turned off. This ensures that the *Conflo IV* sample open split maintains a helium atmosphere. 
 
-![*Conflo IV Diagnosis* panel with some open (left) valves and all closed valves (right).](../figures/isodat/conflo_valves.jpg)
+![](../figures/isodat/conflo_valves.jpg)
+*Conflo IV Diagnosis panel with open valves (left) and closed valves (right).*
