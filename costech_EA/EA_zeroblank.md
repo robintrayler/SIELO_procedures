@@ -47,7 +47,7 @@ Before loading samples **you must** isolate the mass spectrometer from the EA.  
 
 ### Purge Autosampler
 
-The Zeroblank autosampler must be purged with helium to remove <CO<sub>2</sub> and <N<sub>2</sub> from the air.
+The Zeroblank autosampler must be purged with helium to remove CO<sub>2</sub> and N<sub>2</sub> from the air.
 
 * Close the Zeroblank autosampler lid and tighten the three retaining bolts a quarter turn at a time until they are tight.
 * Leave the center vent valve open and *slowly* open the isolation valve by turning it so the arrow points directly up. 
