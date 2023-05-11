@@ -32,16 +32,18 @@ The *Costech 4010 Elemental Combustion System* *Zeroblank Autosampler* holds sam
 
 Before loading samples **you must** isolate the mass spectrometer from the EA.  **Failure to do so can cause significant damage!** 
 
-![](../figures/costech_EA/autosampler.png)
-*Diagram of the ZeroBlank Autosampler*
+|![](../figures/costech_EA/autosampler.png)|
+|:--:|
+|*Diagram of the ZeroBlank Autosampler*|
 
 * Close the isolation valve on the autosampler drop-tube by turning it so the arrow is horizontal. At this point you should not be able to see the hot glowing column through the window on the top of the autosampler.
 * Open vent valve in the middle of the autosampler. There should be an audible hiss as gas escapes.
 * Loosen and fold down the three retaining bolts on top of the autosampler and prop up the autosampler lid.
 * Use a pair of forceps to load samples from the 96 well tray. Start at the hole directly to the right of the autosampler drop-tube and work counter clockwise. Do not place a capsule in the hole directly over the drop-tube! 
 
-![](../figures/costech_EA/carousel.png)
-*ZeroBlank Autosampler carousel loading direction. Do not place a capsule in the hole directly over the drop tube.*
+|![](../figures/costech_EA/carousel.png)|
+|:--:|
+|*ZeroBlank Autosampler carousel loading direction. Do not place a capsule in the hole directly over the drop tube.*|
 
 * When you are done loading, make sure there are no sample capsules left in the 96 well tray and make you have loaded only 1 capsule into each autosampler hole. 
 
