@@ -39,8 +39,9 @@ Setting up an Isodat sequence begins by starting a new row in the appropriate *I
 Each analysis within a run is also given a unique identifier number referred to as `Identifier 1`. 
 * in the `start_ID1` column enter the first `Identifier 1` number for your run. This number is the `end_ID1` from the previous row +1. You will fill in the `end_ID1` for the current row later. 
 
- ![](../figures/isodat/run_log.png)
- *The first columns of the Costech 4010 Instrument Run Log, showing the creation of a new set of Identifier 1 numbers.*
+ |![](../figures/isodat/run_log.png)|
+ |:--:|
+| *The first columns of the Costech 4010 Instrument Run Log, showing the creation of a new set of Identifier 1 numbers.* |
  
  * In the `sample_type` column enter the general type of material being analyzed (e.g., soil, animal tissue, feathers, plants, etc). This does not need to be very specific. 
  *  In the `n_samples` column enter the total number of things being analyzed (samples + standards). 
@@ -52,8 +53,9 @@ Each analysis within a run is also given a unique identifier number referred to 
   
 ### Fill Out Weigh Sheet
 
- ![](../figures/isodat/weigh_sheet.png)
- *Example of a completely filled out weigh sheet.*
+ |![](../figures/isodat/weigh_sheet.png)|
+ |:--:|
+|*Example of a completely filled out weigh sheet.* |
 
 After you have started a new row in the *Instrument Run Log* you can finish filling out the typed weigh sheet. Weigh sheets of samples waiting for analysis are stored in `~/Box Sync/Instrument Run Logs/Sample Run Sheets/Sample To Run/`. 
 
@@ -71,8 +73,9 @@ Open *Isodat Workspace* and select `Conflo + EA` from the small drop-down menu i
     * Enter the total number of samples (from `n_samples`) in the small window that pops up and click OK. 
     * Maximize the sequence window so that all the columns are visible. 
 
- ![](../figures/isodat/blank_sequence.png)
- *Example of a completely blank sequence file.*
+ |![](../figures/isodat/blank_sequence.png)|
+ |:--:|
+| *Example of a completely blank sequence file.* |
 
 * Copy and paste from the weigh sheet into the Isodat sequence.
     * `identifier 1` ➡️ `Identifier 1` 
@@ -84,8 +87,9 @@ Open *Isodat Workspace* and select `Conflo + EA` from the small drop-down menu i
 
 ### Set Save Options
 
-![](../figures/isodat/isodat_options.png)
- *The Isodat options window.*
+| ![](../figures/isodat/isodat_options.png)|
+|:--:|
+| *The Isodat options window.* |
 
 * Click the `Options` button on the top of the sequence. Make sure to click the lower green-and-orange `Options` button and not the upper white-and-yellow options button.
     * Set the results file output location by selecting the small folder icon 📁 under `Folder Name`. Select the folder with the name `EA {current year}`. **Do not select any options under the `Folder Name` `Pre` and `Post` buttons.**
