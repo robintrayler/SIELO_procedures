@@ -45,7 +45,9 @@ Each analysis within a run is also given a unique identifier number referred to 
  * In the `sample_type` column enter the general type of material being analyzed (e.g., soil, animal tissue, feathers, plants, etc). This does not need to be very specific. 
  *  In the `n_samples` column enter the total number of things being analyzed (samples + standards). 
  *  In the `n_unknowns` column enter only the number of samples being analyzed (no standards). This is for billing purposes.
- *  Fill out the `combustion`, `reduction`, `H2O_trap`, and `ash_crucible` columns by adding the value from `n_samples` to the previous rows value for each column. 
+ *  Fill out the `combustion`, `reduction`, `H2O_trap`, and `ash_crucible` columns by adding the value from `n_samples` to the previous rows value for each column.
+ *  Put the name of your supervisor in the `PI` column and your name in the `submitter` column. 
+ *  Put the name of your tray in the `comments` column.
  *  You will fill out the remaining columns later before you start the analyses.
   
 ### Fill Out Weigh Sheet
