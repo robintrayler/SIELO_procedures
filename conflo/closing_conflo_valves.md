@@ -28,5 +28,6 @@ Before loading samples or otherwise opening the *Costech 4010 Elemental Combusti
 
 In *Isodat Acquisition* scroll down to find the `Conflo IV Diagnosis` panel in the sidebar. Toggle all valves and capillaries off by clicking all green radio buttons so they turn grey. Note that one value under `Sample Dilution` will always remain open and Isodat will not allow it to be turned off. This ensures that the *Conflo IV* sample open split maintains a helium atmosphere. 
 
-![](../figures/isodat/conflo_valves.jpg)
-*Conflo IV Diagnosis panel with open valves (left) and closed valves (right).*
+| ![](../figures/isodat/conflo_valves.jpg)| 
+|:---------------------------------------:|
+|*Conflo IV Diagnosis panel with open valves (left) and closed valves (right).*|
