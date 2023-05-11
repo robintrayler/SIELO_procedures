@@ -79,5 +79,5 @@ The background measurements for each gas should be roughly the same as the measu
 * Highlight all rows by clicking on the `Row` column header in the upper left of the sequence. 
 * Click the green `Start` button. 
 * Click OK. 
-* The sequence should start.
+* The sequence should start 🎉.
 * Check on your analyses periodically to check for analytical problems. 
