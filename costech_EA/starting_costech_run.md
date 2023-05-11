@@ -29,6 +29,9 @@ This guide covers the final steps for setting up batch of analyses using the Cos
 
 ### Record Instrument Parameters
 
+![](../figures/isodat/box_trap.png)
+
+
 ### Record Backgrounds
 
 ### Start Sequence

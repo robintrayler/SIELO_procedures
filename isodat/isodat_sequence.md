@@ -27,7 +27,7 @@ An *Isodat sequence* file is required for all analyses on the Costech 4010 Eleme
 
 ## Steps
 
-### Instrument Run Log
+### Start Instrument Run Log
 
 Each instrument has an *Instrument Run Log* excel file located in `~/Box Sync/Instrument Run Logs/`. There are two log files, one for each Delta V+ mass spectrometer. **All analyses** must be entered into the appropriate *Instrument Run Log*.
 
@@ -46,12 +46,12 @@ Each analysis within a run is also given a unique identifier number referred to 
  *  In the `n_samples` column enter the total number of things being analyzed (samples + standards). 
  *  In the `n_unknowns` column enter only the number of samples being analyzed (no standards). This is for billing purposes.
  *  Fill out the `combustion`, `reduction`, `H2O_trap`, and `ash_crucible` columns by adding the value from `n_samples` to the previous rows value for each column. 
-  
-  ![](../figures/isodat/weigh_sheet.png)
- *Example of a completely filled out weigh sheet.*
-
+ *  You will fill out the remaining columns later before you start the analyses.
   
 ### Fill Out Weigh Sheet
+
+ ![](../figures/isodat/weigh_sheet.png)
+ *Example of a completely filled out weigh sheet.*
 
 After you have started a new row in the *Instrument Run Log* you can finish filling out the typed weigh sheet. Weigh sheets of samples waiting for analysis are stored in `~/Box Sync/Instrument Run Logs/Sample Run Sheets/Sample To Run/`. 
 
@@ -92,6 +92,6 @@ Open *Isodat Workspace* and select `Conflo + EA` from the small drop-down menu i
     *  Uncheck the `autoenumerate` checkbox. 
     *  Click `OK`. 
 
-* Click the `Save` 💾 icon. Save the sequence in the `/sample sequences/` folder with the `run_ID`  as the file name.
+* Click the `Save` 💾 icon. Save the sequence in the `/Sample Sequences/` folder with the `run_ID`  as the file name.
   
   
