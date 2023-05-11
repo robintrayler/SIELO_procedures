@@ -50,7 +50,7 @@ This guide covers the final steps for setting up batch of analyses using the Cos
 * Record the values shown in the `Box`, `Trap`, and `Vac`, readouts from Iosdat Acquisition in the *Instrument Run Log*. 
     * The `Box` and `Trap` values should be stable and should sum to 1.5. If they are fluctuating rapidly, stop and contact the Technical Director. 
 
-![](../figures/isodat/box_trap.png)
+![](../figures/isodat/box_trap.png)  
 *Location of `Box`, `Trap`, and `Vac` readouts in Isodat Acquisition*
 
 ### Record Backgrounds
