@@ -72,15 +72,21 @@ The background measurements for each gas should be roughly the same as the measu
 * Let the peak center finish and record the readout in the *Instrument Run Log.* 
 
 ### Start Sequence
-
-* Double check that the Costech 4010 is in `work` mode and is ready. 
+* Double check that: 
+- [ ] the Costech 4010 is in `work` mode and is ready. 
     * All three lights on the front should be green
-    * There should be no red or blank lights 
-* Double check that the sequence is complete.
+    * There should be no red or blank lights.  
+    * 
+- [ ] The sequence is complete.
     * `Identifier 1`, `Identifier 2`, `Amount`, and `Method` columns are correct.
     * Save `Options` are set correctly. 
-* Double check that the *Instrument Run Log* is filled out completely.
+- [ ] The *Instrument Run Log* is filled out completely.
     * All columns should have a value.
+- [ ] The Zeroblank autosampler Isolation Valve is open.
+    * You should be able to see the glowing hot column through the window on the top of the Zeroblank autosampler.
+    * **If the valve is left closed you will lose all your samples!**
+
+
 * Open the sequence file you created when [Setting up a Costech 4010 Isodat Sequence](../isodat/isodat_sequence.md).
 * Highlight all rows by clicking on the `Row` column header in the upper left of the sequence. 
 * Click the green `Start` button. 

@@ -56,3 +56,4 @@ The Zeroblank autosampler must be purged with helium to remove CO<sub>2</sub> an
     * You should hear are whine (this is normal) from the EA and there will be gas flow out of the purge valve. 
 * Set a timer for 5 minutes.
 * Close the vent valve after 5 minutes.
+* **DO NOT CLOSE** the isolation valve after purging.
