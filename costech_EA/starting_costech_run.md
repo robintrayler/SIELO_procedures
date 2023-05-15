@@ -73,6 +73,9 @@ The background measurements for each gas should be roughly the same as the measu
 
 ### Start Sequence
 
+* Double check that the Costech 4010 is in `work` mode and is ready. 
+    * All three lights on the front should be green
+    * There should be no red or blank lights 
 * Double check that the sequence is complete.
     * `Identifier 1`, `Identifier 2`, `Amount`, and `Method` columns are correct.
     * Save `Options` are set correctly. 
