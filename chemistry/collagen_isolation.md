@@ -53,10 +53,17 @@ Working in the fume hood, use a 1000 μL pipet add  4.13 mL of stock (12.1 M) HC
 5. After **1 hour** take the samples out of the refrigerator.
 6. Visually inspect the samples for any chunks of un-demineralized bioapatite. Fully demineralized samples should be pale white and translucent. 
     * If there are opaque white spots, these may be partially demineralized chunks of bioapatite. Return the samples to the refrigerator and check again after 15 minutes. Repeat as necessary. 
-7. Once the demineralization reaction is complete, centrifuge at 10,000 RPM for 5 minutes. **Make sure the microcentrifuge is balanced**
+7. Once the demineralization reaction is complete, centrifuge at 10,000 RPM for 5 minutes. **Make sure the microcentrifuge is balanced**.
 8. Using clean glass pipette for each sample, discard the supernatant into a waste beaker. Be careful not to pipette the collagen. It is better to leave more liquid in than taking too much out.
 9. Add ~ 1mL of DI water to each sample and centrifuge again at 10,000 RPM for 5 minutes. 
 10. Repeat steps 7 - 8 for a total of 5 rinses.
+
+    - [ ] Rinse 1
+    - [ ] Rinse 2
+    - [ ] Rinse 3
+    - [ ] Rinse 4
+    - [ ] Rinse 5
+
 11. After the water from fifth rinse is removed, cap the vials and place them in the lab freezer until frozen.
 12. Once the samples are frozen, lyophilize (freeze dry) them overnight. 
 13. The final product should resemble fluffy/cotton-candy like texture. 
