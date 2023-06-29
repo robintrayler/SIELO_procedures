@@ -1,3 +1,9 @@
+---
+mainfont: "Helvetica"
+fontsize: 12pt
+geometry: margin=1.0in
+---
+
 # Collagen Isolation from Bioapatite
 
 <!-- pandoc -s -o collagen.pdf collagen_isolation.md --pdf-engine=xelatex --> 
@@ -19,7 +25,7 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 - [ ] 5.75” glass pipettes and rubber bulbs 
 - [ ] 1.5 mL Microcentrifuge tubes 
 - [ ] microcentrifuge tube rack
-- [ ] 1000 uL pipette with tips
+- [ ] 1000 μL pipette with tips
 - [ ] DI water
 - [ ] One glass beaker for chemical waste
 
