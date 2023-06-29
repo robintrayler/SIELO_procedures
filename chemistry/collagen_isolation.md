@@ -38,7 +38,8 @@ Working in the fume hood, use a 1000 μL pipet add  4.13 mL of stock (12.1 M) HC
 ## Steps
 
 ### Preparation
-1. Weigh about 3.0 mg of powdered bioapatite into 1.5 mL micro centrifuge tubes. **Label the tubes with the sample name**. 
+1. Weigh about 3.0 mg of powdered bioapatite into 1.5 mL micro centrifuge tubes. **Label the tubes with the sample name**.
+    * Record the sample weights in your lab notebook. 
     * If working with larger samples (> 4 mg) use a larger glass or plastic tube.
 2. Store with the tubes closed until ready to demineralize. 
 
