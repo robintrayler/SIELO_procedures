@@ -1,4 +1,4 @@
-# Collagen Extraction
+# Collagen Isolation from Bioapatite
 
 [🏠](../README.md)
 
@@ -23,7 +23,7 @@ Please contact the Stable Isotope Ecology Laboratory Technical Director with any
 
 ## Introduction
 
-This guide covers the extraction of collagen from well preserved bioapatite (bone, dentine) samples[^1]. This guide assumes that the samples were collected using a dental drill or have otherwise been ground into a fine (flour-like) powder. If you are working with chunks of bone the timings will need to be adjusted. This guide is based on the method published
+This guide covers the extraction of collagen from well preserved bioapatite (bone, dentine) samples[^1]. This guide assumes that the samples were collected using a dental drill or have otherwise been ground into a fine (flour-like) powder. If you are working with chunks of bone the timings will need to be adjusted. This guide is intended for well preserved modern samples and does not cover gelatinization, filtration, lipid extraction, or contaminant removal from collagen. If these steps are necessary for your samples please contact Dr. Robin Trayler (rtrayler@ucmerced.edu), or Dr. Sora Kim (skim380@ucmerced.edu). 
 
 ## Safety
 
@@ -44,20 +44,21 @@ Working in the fume hood, use a 1000 μL pipet add  4.13 mL of stock (12.1 M) HC
 
 ### Demineralization
 
-1. Add 1 mL of 0.1 HCl to each micro centrifuge tube using a 1000 μL pipet. If working with larger samples, scale the amount of acid by 0.33 mL/mg. 
-    * Note the time acid was added to the samples.
-2. Vortex the samples for about 5 seconds each.
-3. Transfer the samples to the laboratory refrigerator. 
+1. Add 1 mL of 0.1 HCl to each micro centrifuge tube using a 1000 μL pipet. 
+    * If working with larger samples, scale the amount of acid by 0.33 mL/mg. 
+2. Note the time acid was added to the samples.
+3. Vortex the samples for about 5 seconds each.
+4. Transfer the samples to the laboratory refrigerator. 
     * The ~4°C temperature of the refrigerator slows the demineralization reaction time. 
-4. After **1 hour** take the samples out of the refrigerator.
-5. Visually inspect the samples for any chunks of un-demineralized bioapatite. Fully demineralized samples should be pale white and translucent. 
+5. After **1 hour** take the samples out of the refrigerator.
+6. Visually inspect the samples for any chunks of un-demineralized bioapatite. Fully demineralized samples should be pale white and translucent. 
     * If there are opaque white spots, these may be partially demineralized chunks of bioapatite. Return the samples to the refrigerator and check again after 15 minutes. Repeat as necessary. 
-6. Once the demineralization reaction is complete, centrifuge at 10,000 RPM for 5 minutes. **Make sure the microcentrifuge is balanced**
-7. Using clean glass pipette for each sample, discard the supernatant into a waste beaker. Be careful not to pipette the collagen. It is better to leave more liquid in than taking too much out.
-8. Add ~ 1mL of DI water to each sample and centrifuge again at 10,000 RPM for 5 minutes. 
-9. Repeat steps 7 - 8 for a total of 5 rinses. 
-10. After the water from fifth rinse is removed, cap the vials and place them in the lab freezer until frozen.
-11. Once the samples are frozen, lyophilize (freeze dry) them overnight. 
-12. The final product should resemble fluffy/cotton-candy like texture. 
+7. Once the demineralization reaction is complete, centrifuge at 10,000 RPM for 5 minutes. **Make sure the microcentrifuge is balanced**
+8. Using clean glass pipette for each sample, discard the supernatant into a waste beaker. Be careful not to pipette the collagen. It is better to leave more liquid in than taking too much out.
+9. Add ~ 1mL of DI water to each sample and centrifuge again at 10,000 RPM for 5 minutes. 
+10. Repeat steps 7 - 8 for a total of 5 rinses.
+11. After the water from fifth rinse is removed, cap the vials and place them in the lab freezer until frozen.
+12. Once the samples are frozen, lyophilize (freeze dry) them overnight. 
+13. The final product should resemble fluffy/cotton-candy like texture. 
 
 [^1]: Trayler, Landa, P. V., & Kim, S. L. (2023). Evaluating the efficacy of collagen isolation using stable isotope analysis and infrared spectroscopy. Journal of Archaeological Science, 151, 105727–. https://doi.org/10.1016/j.jas.2023.105727

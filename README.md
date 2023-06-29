@@ -15,8 +15,5 @@ To start a batch of analyses on the Costech 4010 Elemental Combustion System com
 - [ ] [Setting up a Costech 4010 Isodat Sequence](./isodat/isodat_sequence.md)
 - [ ] [Starting a Costech 4010 Sequence](./costech_EA/starting_costech_run.md)
 
-## Maintenance
-
-# ThermoFisher TC/EA
-
-# ThermoFisher Gasbench II
+# Chemical Procedures 
+ - [ ] [Collagen Isolation from Bioapatite](./chemistry/collagen_isolation.md)
