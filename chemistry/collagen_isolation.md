@@ -1,5 +1,7 @@
 # Collagen Isolation from Bioapatite
 
+<!-- pandoc -s -o collagen.pdf collagen_isolation.md --pdf-engine=xelatex --> 
+
 [🏠](../README.md)
 
 ***
@@ -27,13 +29,13 @@ This guide covers the extraction of collagen from well preserved bioapatite (bon
 
 ## Safety
 
-This procedure uses 0.1 M hydrochloric acid (HCL). Hydrochloric acid is corrosive and toxic, therefore familiarize yourself with the chemical MSDS for HCl found [here](https://www.fishersci.com/store/msds?partNumber=A481212&productDescription=HYDROCHLORIC+ACID+NF%2FFCC+21%2F2L&vendorId=VN00033897&countryCode=US&language=en). When handling concentrated HCl, always work in the fume hood with proper PPE (minimum of nitrile gloves, lab coat, and eye protection). When mixing 0.1M HCl be sure to always add acid to water. Be sure to store HCl in the proper labeled cabinets.
+This procedure uses 0.1 M hydrochloric acid (HCl). Hydrochloric acid is corrosive and toxic, therefore familiarize yourself with the chemical MSDS for HCl found [here](https://www.fishersci.com/store/msds?partNumber=A481212&productDescription=HYDROCHLORIC+ACID+NF%2FFCC+21%2F2L&vendorId=VN00033897&countryCode=US&language=en). When handling concentrated HCl, always work in the fume hood with proper PPE (minimum of nitrile gloves, lab coat, and eye protection). When mixing 0.1M HCl be sure to always add acid to water. Be sure to store HCl in the proper labeled cabinets.
 
 
 ## Reagents 
 ### Hydrochloric Acid (0.1 M)
 
-Working in the fume hood, use a 1000 μL pipet add  4.13 mL of stock (12.1 M) HCL to 495.87 mL of deionized water. This will make 500 mL of 0.1 M HCl. Store in a labeled glass bottle in the laboratory refrigerator.
+Working in the fume hood, use a 1000 μL pipet add  4.13 mL of stock (12.1 M) HCl to 495.87 mL of deionized water. This will make 500 mL of 0.1 M HCl. Store in a labeled glass bottle in the laboratory refrigerator.
 
 ## Steps
 
