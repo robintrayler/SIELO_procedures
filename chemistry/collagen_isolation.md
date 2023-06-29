@@ -35,7 +35,7 @@ This procedure uses 0.1 M hydrochloric acid (HCl). Hydrochloric acid is corrosiv
 ## Reagents 
 ### Hydrochloric Acid (0.1 M)
 
-Working in the fume hood, use a 1000 μL pipet add  4.13 mL of stock (12.1 M) HCl to 495.87 mL of deionized water. This will make 500 mL of 0.1 M HCl. Store in a labeled glass bottle in the laboratory refrigerator.
+Working in the fume hood, use a 10 mL pipet add 4.13 mL of stock (12.1 M) HCl to 495.87 mL of deionized water. This will make 500 mL of 0.1 M HCl. Store in a labeled glass bottle in the laboratory refrigerator.
 
 ## Steps
 
