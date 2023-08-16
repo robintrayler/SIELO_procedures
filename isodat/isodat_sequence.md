@@ -69,9 +69,10 @@ After you have started a new row in the *Instrument Run Log* you can finish fill
 ### Set Up Isodat Sequence
  
 Open *Isodat Workspace* and select `Conflo + EA` from the small drop-down menu in the bottom left. **A sequence created in a different instrument configuration will not work!**
-    * In *Isodat Workspace* click **new** in the upper left and select **sequence**. 
-    * Enter the total number of samples (from `n_samples`) in the small window that pops up and click OK. 
-    * Maximize the sequence window so that all the columns are visible. 
+
+* In *Isodat Workspace* click **new** in the upper left and select **sequence**. 
+* Enter the total number of samples (from `n_samples`) in the small window that pops up and click OK. 
+* Maximize the sequence window so that all the columns are visible. 
 
  |![](../figures/isodat/blank_sequence.png)|
  |:--:|
