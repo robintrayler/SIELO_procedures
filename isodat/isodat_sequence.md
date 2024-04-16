@@ -96,7 +96,7 @@ Open *Isodat Workspace* and select `Conflo + EA` from the small drop-down menu i
     * Set the results file output location by selecting the small folder icon 📁 under `Folder Name`. Select the folder with the name `EA {current year}`. **Do not select any options under the `Folder Name` `Pre` and `Post` buttons.**
     *  Under `File Name`, click the `Pre` button and select `Identifier 1` and click OK. Click the `Post` button and select `Date` and click OK. 
     *  In the text box to the right of the buttons enter the `run_ID`.
-    *  Uncheck the `autoenumerate` checkbox. 
+    *  Uncheck the `Auto Enum` checkbox. 
     *  Click `OK`. 
 
 * Click the `Save` 💾 icon. Save the sequence in the `/Sample Sequences/` folder with the `run_ID`  as the file name.
