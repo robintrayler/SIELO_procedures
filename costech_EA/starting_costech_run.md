@@ -36,7 +36,7 @@ This guide covers the final steps for setting up batch of analyses using the Cos
 * Open the most recent CO<sub>2</sub> and N<sub>2</sub> on-off result files.  
 * Click on the column header labeled `d 13C/12C [per mil] vs. VPDB` and `d 15N/14N [per mil] vs. AIR`  to highlight all the rows. 
 * Right click and select `Calculate`. 
-* Check the standard deviation (`Std. Dev.`). The instrument is ready run if the standard deviation is ≤0.5‰ for both δ13C and δ15N. 
+* Check the standard deviation (`Std. Dev.`). The instrument is ready run if the standard deviation is ≤0.05‰ for both δ<sup>13</sup>C and δ <sup>15</sup>N. 
 * Record the standard deviation of the most recent CO<sub>2</sub> and N<sub>2</sub> on-off result file in the instrument run log in the `δ13C` and `δ15N` columns.  
 
 |![](../figures/isodat/c_on_off.JPG)|
