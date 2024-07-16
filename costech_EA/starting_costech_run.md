@@ -68,7 +68,7 @@ The background measurements for each gas should be roughly the same as the measu
 * Right click on the center collector and select `jump to mass`. 
 * Type 18 in the window that pops up and click OK. 
 * Wait for the switch to happen (*Isodat Acquisition* will look like it's crashing). 
-* After the switch click the `Peak Center` button. It's the left-most icon that looks like a small green bell at the top of the panel). 
+* After the switch click the `Center Scan` button. It's the left-most icon that looks like a small green bell at the top of the panel). 
 * Let the peak center finish and record the readout in the *Instrument Run Log.* 
 
 ### Start Sequence
@@ -86,8 +86,8 @@ The background measurements for each gas should be roughly the same as the measu
     * You should be able to see the glowing hot column through the window on the top of the Zeroblank autosampler.
     * **If the valve is left closed you will lose all your samples!**
 
-
-* Open the sequence file you created when [Setting up a Costech 4010 Isodat Sequence](../isodat/isodat_sequence.md).
+* From *Isodat Acquisition* scroll to the *File Browser* and click on the *Sequence* tab 
+* Navigate to the `Sample Sequences` folder and open the sequence file you created when [Setting up a Costech 4010 Isodat Sequence](../isodat/isodat_sequence.md).
 * Highlight all rows by clicking on the `Row` column header in the upper left of the sequence. 
 * Click the green `Start` button. 
 * Click OK. 
