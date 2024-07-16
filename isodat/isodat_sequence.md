@@ -57,7 +57,7 @@ Each analysis within a run is also given a unique identifier number referred to 
  |:--:|
 |*Example of a completely filled out weigh sheet.* |
 
-After you have started a new row in the *Instrument Run Log* you can finish filling out the typed weigh sheet. Weigh sheets of samples waiting for analysis are stored in `~/Box Sync/Instrument Run Logs/Sample Run Sheets/Sample To Run/`. 
+After you have started a new row in the *Instrument Run Log* you can finish filling out the typed weigh sheet. Weigh sheets of samples waiting for analysis are stored in `~/Box Sync/Sample Run Sheets/Sample To Run/`. 
 
 * Open the appropriate weigh sheet and make sure if all standards and samples are prepared.
 * The `tray_well`, `sample`, `weight (mg)`, `analyst`, and `sample_type` columns should already be filled out. If they are not fill them out now.
