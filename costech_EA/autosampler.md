@@ -45,7 +45,7 @@ The Costech 4010 Zeroblank autosampler has 3 different carousel sizes, a 32-well
 
 |![](../figures/costech_EA/carousel_underside.jpeg)|
 |:--:|
-|*Underside of a Zeroblank autosampler carousel showing the 3 holes..*|
+|*Underside of a Zeroblank autosampler carousel showing the 3 holes.*|
 
 * The center post of the Zeroblank autosampler has a flattened edge that must be aligned with the corresponding flattened edge of the center-post hole on the carousel. 
 * You must also align the peg and peg-hole to ensure the base plate cannot move during autosampler operation. 
@@ -53,6 +53,21 @@ The Costech 4010 Zeroblank autosampler has 3 different carousel sizes, a 32-well
 * If everything is aligned properly the carousel should drop into Zeroblank autosampler body and the center post will be flush with the top of the carousel.
 
 ### Aligning The Autosampler
-**🚨🚨The autosampler must be aligned. Failure to do so will result in sample loss🚨🚨**
+
+Now that a new carousel is installed you 🚨**must**🚨 change the autosampler setting in the Costech 4010 menu and align the carousel. Failure to do so will result in lost analyses. 
+
+* Using the ⬆️/⬇️ arrow keys navigate to the select autosampler menu on the Costech 4010 screen.
+    * **If the buttons are unresponsive**, press `abort` and `enter` on the keypad.
+
+|![](../figures/costech_EA/select_autosampler.jpeg)|
+|:--:|
+|*Select Autosampler screen.*|
+
+* Use the ⬅️/➡️ arrow keys to move the cursor to the `AUTOS 50/32/100` line.
+* Enter the appropriate number in brackets `<#>` to the appropriate auto sampler size. 
+    * `<1>` for 50-well
+    * `<2>` for 32-well
+    * `<3>` for 100-well
+* Confirm your selection by pressing `enter`. The work `OK` should appear above the selection. 
 
 
