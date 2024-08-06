@@ -40,6 +40,19 @@ The Costech 4010 Zeroblank autosampler has 3 different carousel sizes, a 32-well
 ### Install New Carousel
 
 * select the appropriate sized carousel your samples (32, 50, 100).
-* 
+* The autosampler carousel has an upper body with sample-wells and a base plate that spins freely.
+* The baseplate has 3 holes in it. A center post-hole, a peg-hole and a sample-drop hole. 
+
+|![](../figures/costech_EA/carousel_underside.jpeg)|
+|:--:|
+|*Underside of a Zeroblank autosampler carousel showing the 3 holes..*|
+
+* The center post of the Zeroblank autosampler has a flattened edge that must be aligned with the corresponding flattened edge of the center-post hole on the carousel. 
+* You must also align the peg and peg-hole to ensure the base plate cannot move during autosampler operation. 
+* Since the carousel base plate can spin freely, rotate it so the flattened edge on the center-post hole and the peg-hole are aligned with the autosampler body. This takes some trial and error. 
+* If everything is aligned properly the carousel should drop into Zeroblank autosampler body and the center post will be flush with the top of the carousel.
+
+### Aligning The Autosampler
+**🚨🚨The autosampler must be aligned. Failure to do so will result in sample loss🚨🚨**
 
 
