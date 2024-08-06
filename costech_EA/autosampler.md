@@ -52,9 +52,9 @@ The Costech 4010 Zeroblank autosampler has 3 different carousel sizes, a 32-well
 * Since the carousel base plate can spin freely, rotate it so the flattened edge on the center-post hole and the peg-hole are aligned with the autosampler body. This takes some trial and error. 
 * If everything is aligned properly the carousel should drop into Zeroblank autosampler body and the center post will be flush with the top of the carousel.
 
-### Aligning The Autosampler
+### Configuring the Autosampler
 
-Now that a new carousel is installed you 🚨**must**🚨 change the autosampler setting in the Costech 4010 menu and align the carousel. Failure to do so will result in lost analyses. 
+* Now that a new carousel is installed you 🚨**must**🚨 change the autosampler setting in the Costech 4010 menu and align the carousel. Failure to do so will result in lost analyses. 
 
 * Using the ⬆️/⬇️ arrow keys navigate to the select autosampler menu on the Costech 4010 screen.
     * **If the buttons are unresponsive**, press `abort` and `enter` on the keypad.
@@ -68,6 +68,32 @@ Now that a new carousel is installed you 🚨**must**🚨 change the autosampler
     * `<1>` for 50-well
     * `<2>` for 32-well
     * `<3>` for 100-well
-* Confirm your selection by pressing `enter`. The work `OK` should appear above the selection. 
+* Confirm your selection by pressing `enter`. The word `OK` should appear above the selection. 
 
+### Aligning the Autosampler
 
+* The autosampler 🚨**must**🚨 be aligned before use. Failure to do so will result in lost analyses.
+
+* Using the ⬆️/⬇️ arrow keys navigate to the autosampler alignment menu on the Costech 4010 screen. The menu will say `EL. AUTOSAMPLER` at the top.
+    * **If the buttons are unresponsive**, press `abort` and `enter` on the keypad.
+
+|![](../figures/costech_EA/autosampler_adjust.jpeg)|
+|:--:|
+|*Select Autosampler screen.*|
+
+* The autosampler alignment menu has 3 options. They can be selected using the ⬅️/➡️ arrow keys.
+    * `GO   <:>`
+    * `JOG+ <:>`
+    * `JOG- <:>`
+*  Select `GO` and press `enter`. This will rotate the autosampler forward 1 step/ hole. 
+*  The first step after installing a new carousel is usually a little weird.   Select `GO` and press `enter` a few times until the autosampler is consistently moving exactly one hole. Wait at least 10 seconds between presses. Pressing `enter` rapidly can confuse the autosampler.
+*  Align the autosampler using `JOG+`. `JOG+` will continuously rotate the autosampler clockwise. 
+*  Select `JOG+` and press `enter`. Press `enter` again to stop the rotation.
+    *  Avoid using `JOG-` to rotate the autosampler counter clockwise.
+*  Align the autosampler so that the autosampler well over the drop-tube *slighty* overshoots and there is a sliver of the drop tube visible in the next hole counter-clockwise.
+*  Select `GO` and press `enter` one more time to make sure the alignment is consistent.
+*  If you are loading samples you may do so now. See [Loading the Costech 4010 Zeroblank Autosampler](./costech_EA/EA_zeroblank.md), Otherwise close the Zeroblank autosampler lid and tighten the retaining bolts and vent valve. 
+
+|![](../figures/costech_EA/alignment.jpeg)|
+|:--:|
+|*View of a correctly aligned carousel. In this case hole-1 would be over the drop tube. and there is a sliver visible in hole 2.*|
